@@ -1,10 +1,10 @@
 # Testimonial Slider
 
-A simple and elegant testimonial slider built with React. This component allows users to navigate through testimonials using previous and next buttons, and also includes a "Surprise Me" button to randomly select a testimonial.
+A simple and elegant testimonial slider built with React. This component allows users to navigate through testimonials using previous and next buttons and also includes a "Surprise Me" button to select a testimonial randomly.
 
 ## Features
 
-- **Responsive Design**: Works seamlessly on both mobile and desktop devices.
+- **Responsive Design**: Works seamlessly on mobile and desktop devices.
 - **Interactive Navigation**: Users can navigate through testimonials using the left and right arrow buttons.
 - **Random Testimonial**: The "Surprise Me" button randomly selects a testimonial from the list.
 - **Customizable**: Easily customize the testimonials by modifying the `reviews` array.
@@ -12,7 +12,7 @@ A simple and elegant testimonial slider built with React. This component allows 
 ## Installation
 
 1. Clone the repository:
-   ```bash
+  
    git clone https://github.com/your-username/testimonial-slider.git
 Navigate to the project directory:
 
@@ -55,7 +55,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 npm install
 Run the Project:
 
-bash
-Copy
 npm start
 This will start the development server, and you can view the testimonial slider in your browser. Customize the testimonials and styles as needed!
