@@ -13,7 +13,7 @@ A simple and elegant testimonial slider built with React. This component allows 
 
 1. Clone the repository:
   
-   git clone https://github.com/your-username/testimonial-slider.git
+   git clone https://github.com/HimanshuKumar101/Testimonals-Slider.git
 Navigate to the project directory:
 
 
